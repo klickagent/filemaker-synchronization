@@ -9,6 +9,10 @@
 - Enter the same account after pressing sync again.
 - Edit your data and sync and vice versa in both files.
 
+
+##Download / Installation instructions
+[Download of the solution and instructions how to add data synchronization to your FileMaker databases can be found under: http://www.filemaker-sync.com](http://www.filemaker-sync.com)
+
 ## Requirements
 - FileMaker database you want to synchronize
 - FileMaker Pro (minimum) / FileMaker Pro Advanced (recommended)
