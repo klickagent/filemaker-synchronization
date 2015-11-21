@@ -11,7 +11,8 @@
 
 
 ##Download / Installation instructions
-[Download of the solution and instructions how to add data synchronization to your FileMaker databases can be found under: http://www.filemaker-sync.com](http://www.filemaker-sync.com)
+[Download of the solution and instructions how to add data synchronization to your FileMaker databases can be found under:](http://www.filemaker-sync.com)
+http://www.filemaker-sync.com
 
 ## Requirements
 - FileMaker database you want to synchronize
